@@ -16,4 +16,7 @@
 9. firebase deploy -- to deploy the app
 
 //If you are cloning this to your system
-1. 
+1. git clone (copy github link)
+2. firebase serve in terminal should launch app on local
+3. firebase deploy will deploy your changes to the account
+4. be sure to note changes, etc. 
