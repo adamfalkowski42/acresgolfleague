@@ -1,0 +1,5 @@
+@Media(max-width: 500px){
+    #main{
+        display:block;
+    }    
+}
